@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pause"
+        android:icon="@drawable/pause_button"
+        android:title="@string/title_Pause" />
+
+    <item
+        android:id="@+id/navigation_record"
+        android:icon="@drawable/record_button"
+        android:title="@string/title_Record" />
+
+    <item
+        android:id="@+id/navigation_back"
+        android:icon="@drawable/back_button"
+        android:title="@string/title_Back" />
+
+
+</menu>
